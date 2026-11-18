@@ -7,7 +7,7 @@ Modules:
 2. Department Management
 3. Payroll Management
 
-Project Status: Development Completed
+Project Status: Testing in Progress - Development Completed
 
 Technology: Java
 Version Control: Git and GitHub
